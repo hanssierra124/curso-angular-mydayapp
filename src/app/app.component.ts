@@ -13,7 +13,7 @@ export class AppComponent {
   title = 'todo-app';
   welcome = 'Bienvenido a mi primera aplicación con Angular';
   tasks = [
-    'Instalar Angular CLI',
+    'Instalar Angular CL',
     'Crear proyecto',
     'Crear componente',
     'Crear servicio',
